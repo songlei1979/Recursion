@@ -34,6 +34,8 @@ def d(n):
 def d1(n):
     return (3**(n+1) - 1)/2
 
+# def population(year):
+
 
 
 print(s(3))
